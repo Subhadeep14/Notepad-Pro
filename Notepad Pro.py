@@ -8,7 +8,7 @@ main_application.geometry('1000x700')
 main_application.title('Notepad Pro')
 main_application.wm_iconbitmap('icon.ico')
 
-############### main menu #############
+############### main menu ############
 
 main_menu = tk.Menu()
 # file
